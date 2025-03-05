@@ -1,0 +1,7 @@
+@import '../../../style/variables.module.scss';
+
+@media (max-width: $sm) {
+  .appSectionTitle{
+      text-align: center !important;
+  }
+}
